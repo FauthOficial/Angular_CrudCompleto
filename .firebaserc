@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "crud-usuarios-angular-5e046": {
+      "hosting": {
+        "crud-usuarios": [
+          "crud-usuarios-angular-5e046"
+        ]
+      }
+    },
+    "crud-usuarios-angular-ab2c1": {
+      "hosting": {
+        "crud-usuarios": [
+          "crud-usuarios-angular-ab2c1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "crud-usuarios-angular-ab2c1"
+  }
+}
